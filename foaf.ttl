@@ -21,4 +21,17 @@
   foaf:phone <tel:+38977624237> ;
   foaf:workplaceHomepage <https://students.finki.ukim.mk/> ;
   foaf:workInfoHomepage <https://students.finki.ukim.mk/> ;
-  foaf:schoolHomepage <https://students.finki.ukim.mk/> .
+  foaf:schoolHomepage <https://students.finki.ukim.mk/> ;
+  foaf:knows [
+    a foaf:Person ;
+    foaf:name "Ana" ;
+    foaf:mbox_sha1sum "b531a769a74dd6d17f250018a3954e1867b30c9f"
+  ], [
+    a foaf:Person ;
+    foaf:name "Sanja" ;
+    foaf:mbox_sha1sum "c64010cb1f065189abf9b5a02a6b4cadecc80e3c"
+  ], [
+    a foaf:Person ;
+    foaf:name "Tanja" ;
+    foaf:mbox_sha1sum "474fe0ca2a7f8dad518ff42f47b6dd96fb0d9e30"
+  ] .
